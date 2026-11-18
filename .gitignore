@@ -1,0 +1,6 @@
+dist/
+node_modules/
+market.json
+item-*.json
+bootybay.html
+.env*
